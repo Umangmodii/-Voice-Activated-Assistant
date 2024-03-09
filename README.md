@@ -1,4 +1,4 @@
-<h3> Voice-Activated Assistant (Similar to Jarvis) | PythonVoice-Activated Assistant (Similar to Jarvis) | Python </h3>
+<h3> Voice-Activated Assistant (Similar to Jarvis) | PythonVoice-Activated Assistant (Similar to AI) | Python </h3>
 <h4> Mar 2024 - Mar 2024Mar 2024 - Mar 2024 </h4>
 
 Description:
